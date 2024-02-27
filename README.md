@@ -69,3 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # LightsOutGame
+
+This is a very basic unstyled game where you try to turn every square dark, but toggling any square between light and dark also toggles all adjacent squares. Each new game randomizes the starting state of the game.
